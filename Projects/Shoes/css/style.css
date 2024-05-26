@@ -1,0 +1,86 @@
+
+
+
+.image{
+    background: url(../image/background/hero.jpg) no-repeat;
+    padding: 350px 0px;
+    background-size: 100% 100%;
+}
+.textbg1{
+    background-color: white;
+    color: black;
+}
+.textbg1:hover{
+    background-color: black;
+    color: white;
+}
+.textclr{
+    color: rgb(155, 116, 116);
+}
+.textbg{
+    background-color: rgb(155, 116, 116);
+    color: black;
+}
+.textbg:hover{
+    background-color: black;
+    color: white;
+}
+.clr{
+    color: #FF7E00;
+}
+.font{
+    font-size: 20px;
+}
+.canvas{
+    background-color: #F1F1EF;
+}
+.image2{
+    background: url(../image/background/bgshoe1.jpg) no-repeat;
+    padding: 250px 0px;
+    background-size: 100% 100%;
+}
+.image3{
+    background: url(../image/background/bgshoe2.jpg) no-repeat;
+    padding: 200px 0px;
+    background-size: 100% 100%;
+}
+.people{
+    background: url(../image/background/lastbg.jpg) no-repeat;
+    padding: 200px 0px;
+    background-size: 100% 100%;
+}
+.lookbook1{
+    background: url(../image/background/recycled-shoe-store-lookbook-cover-image-4.jpg) no-repeat;
+    padding: 330px 0px;
+    background-size: 100% 100%;
+}
+.lookbook2{
+    background: url(../image/background/recycled-shoe-store-lookbook-cover-image-3.jpg) no-repeat;
+    padding: 330px 0px;
+    background-size: 100% 100%;
+}
+.lookbook3{
+    background: url(../image/background/recycled-shoe-store-lookbook-cover-image-2.jpg) no-repeat;
+    padding: 330px 0px;
+    background-size: 100% 100%;
+}
+.lookbook4{
+    background: url(../image/background/recycled-shoe-store-lookbook-cover-image-1.jpg) no-repeat;
+    padding: 330px 0px;
+    background-size: 100% 100%;
+}
+.promo1{
+    background: url(../image/background/recycled-shoe-store-promo-image-2.jpg) no-repeat;
+    padding: 150px 0px;
+    background-size: 100% 100%;
+}
+.promo2{
+    background: url(../image/background/recycled-shoe-store-promo-image-1.jpg) no-repeat;
+    padding: 150px 0px;
+    background-size: 100% 100%;
+}
+.font1{
+    font-family: 'Neucha', cursive;
+}
+
+

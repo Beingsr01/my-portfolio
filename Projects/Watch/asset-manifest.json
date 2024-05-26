@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SauravR/Projects/Watch/static/css/main.7c6e1ba3.css",
+    "main.js": "/SauravR/Projects/Watch/static/js/main.fa4714f7.js",
+    "static/media/img5.jpg": "/SauravR/Projects/Watch/static/media/img5.8746201a1e3d47b3e49d.jpg",
+    "static/media/watch-for-sale-1.jpg": "/SauravR/Projects/Watch/static/media/watch-for-sale-1.314dfcc559702d9f1555.jpg",
+    "static/media/img8.jpg": "/SauravR/Projects/Watch/static/media/img8.5cabe90b37717818d222.jpg",
+    "static/media/img6.jpg": "/SauravR/Projects/Watch/static/media/img6.f10ec076802f31b3eea5.jpg",
+    "static/media/man2.jpg": "/SauravR/Projects/Watch/static/media/man2.500e3b6e39995d69f308.jpg",
+    "static/media/img10.jpg": "/SauravR/Projects/Watch/static/media/img10.64cae32f9eefdf8b5391.jpg",
+    "static/media/man1.jpg": "/SauravR/Projects/Watch/static/media/man1.5f9dbeac3ab6310e6580.jpg",
+    "static/media/closeup-of-watch-1.jpg": "/SauravR/Projects/Watch/static/media/closeup-of-watch-1.bbdc5c38eb436f653689.jpg",
+    "static/media/img7.jpg": "/SauravR/Projects/Watch/static/media/img7.3efc4df8baa3aec5772d.jpg",
+    "static/media/img9.jpg": "/SauravR/Projects/Watch/static/media/img9.546c05cffbb1a15a377d.jpg",
+    "index.html": "/SauravR/Projects/Watch/index.html",
+    "main.7c6e1ba3.css.map": "/SauravR/Projects/Watch/static/css/main.7c6e1ba3.css.map",
+    "main.fa4714f7.js.map": "/SauravR/Projects/Watch/static/js/main.fa4714f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c6e1ba3.css",
+    "static/js/main.fa4714f7.js"
+  ]
+}

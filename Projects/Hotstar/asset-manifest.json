@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SauravR/Projects/Hotstar/static/css/main.985ae4d6.css",
+    "main.js": "/SauravR/Projects/Hotstar/static/js/main.61f695cf.js",
+    "static/media/MIbg.png": "/SauravR/Projects/Hotstar/static/media/MIbg.652d52c1b235515e59a8.png",
+    "static/media/logoog-removebg-preview.png": "/SauravR/Projects/Hotstar/static/media/logoog-removebg-preview.a7c0b60fe6372ff7e788.png",
+    "index.html": "/SauravR/Projects/Hotstar/index.html",
+    "main.985ae4d6.css.map": "/SauravR/Projects/Hotstar/static/css/main.985ae4d6.css.map",
+    "main.61f695cf.js.map": "/SauravR/Projects/Hotstar/static/js/main.61f695cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.985ae4d6.css",
+    "static/js/main.61f695cf.js"
+  ]
+}
